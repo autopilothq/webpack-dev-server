@@ -47,7 +47,7 @@
     "serve-index": "^1.7.2",
     "sockjs": "0.3.19",
     "sockjs-client": "1.1.5",
-    "spdy": "^3.4.1",
+    "spdy": "autopilothq/node-spdy#fix/spdy-transport",
     "strip-ansi": "^3.0.0",
     "supports-color": "^5.1.0",
     "webpack-dev-middleware": "3.4.0",
